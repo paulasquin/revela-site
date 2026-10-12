@@ -98,9 +98,11 @@ proche, presets <code>.xmp</code>. Tout est traité sur votre téléphone.</p>
 <h2>Assistance</h2>
 <p>Une question, un problème, une idée ? Écrivez-nous à <a href="mailto:{CONTACT}">{CONTACT}</a>.</p>
 
-<h2>Abonnement</h2>
-<p>Revela Pro est proposé avec un essai gratuit de 7 jours, puis à 1,99 € par mois ou 19,99 € par an.
-L'abonnement se gère et se résilie dans Google Play, rubrique
+<h2>Gratuit ou Revela Pro</h2>
+<p>La retouche est gratuite : tous les curseurs, le recadrage et les presets, avec l'export jusqu'à
+720 px. Revela Pro ajoute l'export en pleine résolution et aux formats Instagram, et Auto,
+l'amélioration IA de la lumière et des couleurs : essai gratuit de 7 jours, puis 1,99 € par mois ou
+19,99 € par an. L'abonnement se gère et se résilie dans Google Play, rubrique
 <a href="https://play.google.com/store/account/subscriptions">Abonnements</a>, ou depuis les réglages de
 l'application.</p>
 
@@ -110,7 +112,8 @@ l'application.</p>
 </ul>
 
 <h2>English</h2>
-<p>Revela is a photo editor for Android with Lightroom-compatible settings. Support:
+<p>Revela is a photo editor for Android with Lightroom-compatible settings. Editing is free;
+Revela Pro adds full-resolution exports and Auto. Support:
 <a href="mailto:{CONTACT}">{CONTACT}</a>. Manage or cancel your subscription in Google Play ›
 Subscriptions. <a href="confidentialite/">Privacy policy</a>.</p>
 
